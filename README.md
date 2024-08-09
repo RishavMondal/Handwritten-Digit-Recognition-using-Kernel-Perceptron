@@ -15,7 +15,7 @@ Linear predictors are commonly used in classification problems due to their prac
 
 The main objective is to identify a hyperplane that separates different classes in the expanded dimensional space, as illustrated in Figure 1. This approach allows for the learning of more complex predictors, such as circles and parabolas, in the original feature space. However, the risk of overfitting increases with the dimensionality of the feature space.
 
-(Screenshot 2024-08-09 123421.png)
+[Image](Screenshot 2024-08-09 123421.png)
 
 One of the significant drawbacks of this method is the increased computational cost associated with higher dimensionality, as calculating the coordinates of each point in the augmented space becomes more complex. However, by utilizing kernels, this problem can be mitigated, reducing complexity while achieving similar results.
 
