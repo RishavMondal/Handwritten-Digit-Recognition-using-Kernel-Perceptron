@@ -1,4 +1,4 @@
-# Kernel Perceptron for Multiclass Classification
+# Handwritten Digit Recognition using kernel perceptron
 
 ## Overview
 
