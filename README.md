@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using kernel perceptron
+# Handwritten Digit Recognition using Kernel Perceptron
 
 ## Overview
 
