@@ -20,4 +20,5 @@ The main objective is to identify a hyperplane that separates different classes 
 One of the significant drawbacks of this method is the increased computational cost associated with higher dimensionality, as calculating the coordinates of each point in the augmented space becomes more complex. However, by utilizing kernels, this problem can be mitigated, reducing complexity while achieving similar results.
 
 ---
+---
 
